@@ -257,3 +257,5 @@ You can:
 
 ---
 
+Note: This is a proof-of-concept project demonstrating real-time computer vision and transfer learning techniques. For production use, additional optimization and validation is recommended.
+
